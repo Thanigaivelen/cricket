@@ -1,0 +1,311 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set a background color and font for the entire page */
+  body {
+    background-image: url('body.jfif'); /* Replace with your image file URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, sans-serif; /* Specify your preferred font-family */
+    color: #333; /* Text color */
+  }
+  
+  
+  /* Style the header and navigation bar */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Style the main content containers */
+/* Style for the matchContainer */
+/* Style for the matchContainer */
+#matchContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  /* Style for each match-card */
+  .match-card {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .match-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Style for match type */
+  .match-type {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for team-info (team logos and names) */
+  .team-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .team {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .team-logo {
+    max-width: 48px;
+    height: auto;
+  }
+  
+  /* Style for vs */
+  .vs {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0 10px;
+  }
+  
+  /* Style for match status */
+  .match-status {
+    margin: 10px 0;
+  }
+  
+  /* Style for match scores */
+  .match-score {
+    font-weight: bold;
+  }
+
+
+
+
+  /* Style for the scheduleContainer */
+#scheduleContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  /* Style for each schedule-card */
+  .schedule-card {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .schedule-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Style for match type in the schedule */
+  .schedule-type {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for team-info (team logos and names) in the schedule */
+  .team-info-schedule {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .team-schedule {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .team-logo-schedule {
+    max-width: 48px;
+    height: auto;
+  }
+  
+  /* Style for vs in the schedule */
+  .vs-schedule {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0 10px;
+  }
+  
+  /* Style for schedule date and time */
+  .schedule-date-time {
+    margin: 10px 0;
+  }
+  
+  /* Style for venue */
+  .schedule-venue {
+    font-weight: bold;
+  }
+
+  
+
+  /* Style for the teamsContainer */
+#teamsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  /* Style for each team-card */
+  .team-card {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .team-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Style for team name and logo */
+  .team-info {
+    margin-bottom: 20px;
+  }
+  
+  .team-logo {
+    max-width: 48px;
+    height: auto;
+  }
+  
+  .team-name {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  /* Style for team details */
+  .team-details {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  /* Style for team description */
+  .team-description {
+    margin: 10px 0;
+  }
+  
+
+
+/* Style for the pointsTableContainer */
+#pointsTableContainer {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for the "Load Points" link */
+  #points-link {
+    font-weight: bold;
+    text-decoration: none;
+    color: #007bff;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #points-link:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style for the actual points table */
+  .points-table {
+    margin-top: 20px;
+  }
+  
+  /* Style for table headers */
+  .points-table th {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Style for table rows */
+  .points-table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Style for team names */
+  .team-name {
+    font-weight: bold;
+  }
+  
+  /* Style for team points */
+  .team-points {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  /* Style for team positions */
+  .team-position {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  /* Style for team logos */
+  .team-logo {
+    width: 48px;
+    height: 48px;
+    border: 2px solid #007bff;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  
+  
+  

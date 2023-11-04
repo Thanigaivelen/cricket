@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Live Cricket App</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a  href="#live" id="live-score-link">Live Score</a></li>
+                <li><a onclick="loadSchedule()" href="#schedule" id="schedules-link">Schedules</a></li>
+                <li><a href="#" id="teams-link">Teams</a></li>
+                <li><a href="#" id="points-table-link">Points Table</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+    
+
+    <!-- <main> -->
+        <div id="matchContainer"></div>
+            
+          
+    <div id="scheduleContainer"></div>
+    <div id="teamsContainer"></div>
+    
+    <div id="pointsTableContainer">
+        <a id="points-link" href="#">Load Points</a>
+
+    </div>
+
+
+    <!-- </main> -->
+
+
+    <script src="points.js"></script>
+    <script src="team.js"></script>
+    <script src="schedule.js"></script>
+    <script src="live.js"></script>
+    
+    
+</body>
+</html>

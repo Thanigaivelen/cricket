@@ -1,0 +1,745 @@
+
+{
+  "apikey": "83cde873-9160-4d4c-a7e2-650ec83b17a5",
+  "data": [
+    {
+      "id": "46066701-fe8b-471d-a903-e006f1d4a7de",
+      "name": "South Western Districts vs Border, 3rd Match",
+      "matchType": "test",
+      "status": "Day 2: Stumps - South Western Districts lead by 281 runs",
+      "venue": "Recreation Ground, Oudtshoorn",
+      "date": "2023-11-02",
+      "dateTimeGMT": "2023-11-02T08:00:00",
+      "teams": [
+        "South Western Districts",
+        "Border"
+      ],
+      "teamInfo": [
+        {
+          "name": "Border",
+          "shortname": "BR",
+          "img": "https://h.cricapi.com/img/icon512.png"
+        },
+        {
+          "name": "South Western Districts",
+          "shortname": "SWD",
+          "img": "https://g.cricapi.com/iapi/85-637993498736049006.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 440,
+          "w": 10,
+          "o": 119,
+          "inning": "South Western Districts Inning 1"
+        },
+        {
+          "r": 186,
+          "w": 10,
+          "o": 60.5,
+          "inning": "Border Inning 1"
+        },
+        {
+          "r": 27,
+          "w": 0,
+          "o": 7,
+          "inning": "South Western Districts Inning 2"
+        }
+      ],
+      "series_id": "e3bd2125-82e2-4841-a097-c681d46c7a60",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "80995124-5871-4402-9b04-981219846011",
+      "name": "Knights vs Limpopo, 2nd Match",
+      "matchType": "test",
+      "status": "Day 2: Stumps - Knights lead by 187 runs",
+      "venue": "Mangaung Oval, Bloemfontein",
+      "date": "2023-11-02",
+      "dateTimeGMT": "2023-11-02T08:00:00",
+      "teams": [
+        "Knights",
+        "Limpopo"
+      ],
+      "teamInfo": [
+        {
+          "name": "Knights",
+          "shortname": "KNG",
+          "img": "https://g.cricapi.com/iapi/40-637992688759741358.webp?w=48"
+        },
+        {
+          "name": "Limpopo",
+          "shortname": "LIMPO",
+          "img": "https://g.cricapi.com/iapi/42-637991993542281273.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 288,
+          "w": 10,
+          "o": 93.1,
+          "inning": "Limpopo Inning 1"
+        },
+        {
+          "r": 475,
+          "w": 4,
+          "o": 98,
+          "inning": "Knights Inning 1"
+        }
+      ],
+      "series_id": "e3bd2125-82e2-4841-a097-c681d46c7a60",
+      "fantasyEnabled": true,
+      "bbbEnabled": false,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "61460459-e565-4646-a899-3b86d461b06f",
+      "name": "United Arab Emirates vs Nepal, Semi Final 2",
+      "matchType": "t20",
+      "status": "Nepal won by 8 wkts",
+      "venue": "Mulpani Cricket Ground, Kathmandu",
+      "date": "2023-11-03",
+      "dateTimeGMT": "2023-11-03T03:15:00",
+      "teams": [
+        "United Arab Emirates",
+        "Nepal"
+      ],
+      "teamInfo": [
+        {
+          "name": "Nepal",
+          "shortname": "NEP",
+          "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+        },
+        {
+          "name": "United Arab Emirates",
+          "shortname": "UAE",
+          "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 134,
+          "w": 9,
+          "o": 20,
+          "inning": "United Arab Emirates Inning 1"
+        },
+        {
+          "r": 135,
+          "w": 2,
+          "o": 17.1,
+          "inning": "Nepal Inning 1"
+        }
+      ],
+      "series_id": "a494636e-9537-4ed9-9e8d-43708b202f81",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "0b253efa-f89e-408e-a615-0aced8e2ad39",
+      "name": "Oman vs Bahrain, Semi Final 1",
+      "matchType": "t20",
+      "status": "Oman won by 10 wkts",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "date": "2023-11-03",
+      "dateTimeGMT": "2023-11-03T03:15:00",
+      "teams": [
+        "Oman",
+        "Bahrain"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bahrain",
+          "shortname": "BHR",
+          "img": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=48"
+        },
+        {
+          "name": "Oman",
+          "shortname": "OMAN",
+          "img": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 106,
+          "w": 9,
+          "o": 20,
+          "inning": "Bahrain Inning 1"
+        },
+        {
+          "r": 109,
+          "w": 0,
+          "o": 14.2,
+          "inning": "Oman Inning 1"
+        }
+      ],
+      "series_id": "a494636e-9537-4ed9-9e8d-43708b202f81",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "e9fc9334-9fe6-4799-a320-652b1783d83e",
+      "name": "Bangladesh Women vs Pakistan Women, 1st ODI (ICC Championship Match)",
+      "matchType": "odi",
+      "status": "Pakistan Women won by 5 wkts",
+      "venue": "Shere Bangla National Stadium, Dhaka",
+      "date": "2023-11-04",
+      "dateTimeGMT": "2023-11-04T03:30:00",
+      "teams": [
+        "Bangladesh Women",
+        "Pakistan Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Bangladesh Women",
+          "shortname": "BANW",
+          "img": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=48"
+        },
+        {
+          "name": "Pakistan Women",
+          "shortname": "PAKW",
+          "img": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 81,
+          "w": 10,
+          "o": 31.5,
+          "inning": "Bangladesh Women Inning 1"
+        },
+        {
+          "r": 85,
+          "w": 5,
+          "o": 24.5,
+          "inning": "Pakistan Women Inning 1"
+        }
+      ],
+      "series_id": "a5c063db-2fbc-4601-a76a-dcc5934b1d35",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "3246371b-e3e4-4aa5-88e4-77fa6e484777",
+      "name": "Australia vs Netherlands, 5th Warm-up game",
+      "matchType": "odi",
+      "status": "No result - 23 overs game due to rain",
+      "venue": "Greenfield International Stadium, Thiruvananthapuram",
+      "date": "2023-09-30",
+      "dateTimeGMT": "2023-09-30T08:30:00",
+      "teams": [
+        "Australia",
+        "Netherlands"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 166,
+          "w": 7,
+          "o": 23,
+          "inning": "Australia Inning 1"
+        },
+        {
+          "r": 84,
+          "w": 6,
+          "o": 14.2,
+          "inning": "Netherlands Inning 1"
+        }
+      ],
+      "series_id": "24c36b5a-0ae1-40cf-8cf5-dd0b9d1be6bd",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "a11a7e11-2965-4dc2-bcca-731fdec956a5",
+      "name": "New South Wales vs Western Australia, 13th Match",
+      "matchType": "odi",
+      "status": "New South Wales won by 2 wkts (DLS method)",
+      "venue": "Sydney Cricket Ground, Sydney",
+      "date": "2023-11-03",
+      "dateTimeGMT": "2023-11-03T23:00:00",
+      "teams": [
+        "New South Wales",
+        "Western Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "New South Wales",
+          "shortname": "NSW",
+          "img": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=48"
+        },
+        {
+          "name": "Western Australia",
+          "shortname": "WA",
+          "img": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 216,
+          "w": 10,
+          "o": 42.2,
+          "inning": "Western Australia Inning 1"
+        },
+        {
+          "r": 225,
+          "w": 8,
+          "o": 42,
+          "inning": "New South Wales Inning 1"
+        }
+      ],
+      "series_id": "e300cf05-07cd-4407-9887-8560fc9e72ed",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "fa7df20a-5d53-4c10-aa1a-f93fc31db2c8",
+      "name": "Assam vs Baroda, Semi Final 2",
+      "matchType": "t20",
+      "status": "Baroda won by 6 wkts",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "date": "2023-11-04",
+      "dateTimeGMT": "2023-11-04T11:00:00",
+      "teams": [
+        "Assam",
+        "Baroda"
+      ],
+      "teamInfo": [
+        {
+          "name": "Assam",
+          "shortname": "ASM",
+          "img": "https://g.cricapi.com/iapi/4-637897788303626448.png?w=48"
+        },
+        {
+          "name": "Baroda",
+          "shortname": "BRD",
+          "img": "https://g.cricapi.com/iapi/11-637897788547716432.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 143,
+          "w": 10,
+          "o": 20,
+          "inning": "Assam Inning 1"
+        },
+        {
+          "r": 146,
+          "w": 4,
+          "o": 16.1,
+          "inning": "Baroda Inning 1"
+        }
+      ],
+      "series_id": "9cf8458f-f7ac-4f6e-91f5-85d33e31abaa",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "bf25b024-f365-4c9a-8a66-53bbbc6dfa8f",
+      "name": "Punjab vs Delhi, Semi Final 1",
+      "matchType": "t20",
+      "status": "Punjab won by 6 wkts",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "date": "2023-11-04",
+      "dateTimeGMT": "2023-11-04T05:30:00",
+      "teams": [
+        "Punjab",
+        "Delhi"
+      ],
+      "teamInfo": [
+        {
+          "name": "Delhi",
+          "shortname": "DEL",
+          "img": "https://g.cricapi.com/iapi/19-637897791252425890.png?w=48"
+        },
+        {
+          "name": "Punjab",
+          "shortname": "PUN",
+          "img": "https://g.cricapi.com/iapi/72-637897801965344275.png?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 183,
+          "w": 7,
+          "o": 20,
+          "inning": "Delhi Inning 1"
+        },
+        {
+          "r": 184,
+          "w": 4,
+          "o": 18.4,
+          "inning": "Punjab Inning 1"
+        }
+      ],
+      "series_id": "9cf8458f-f7ac-4f6e-91f5-85d33e31abaa",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "356a76c0-84a2-4af4-aa00-1d1089837b9e",
+      "name": "Hobart Hurricanes Women vs Brisbane Heat Women, 24th Match",
+      "matchType": "t20",
+      "status": "Brisbane Heat Women won by 6 wkts",
+      "venue": "Bellerive Oval, Hobart",
+      "date": "2023-11-04",
+      "dateTimeGMT": "2023-11-04T07:30:00",
+      "teams": [
+        "Hobart Hurricanes Women",
+        "Brisbane Heat Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Brisbane Heat Women",
+          "shortname": "BH-W",
+          "img": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=48"
+        },
+        {
+          "name": "Hobart Hurricanes Women",
+          "shortname": "HB-W",
+          "img": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 120,
+          "w": 8,
+          "o": 20,
+          "inning": "Hobart Hurricanes Women Inning 1"
+        },
+        {
+          "r": 124,
+          "w": 4,
+          "o": 17.2,
+          "inning": "Brisbane Heat Women Inning 1"
+        }
+      ],
+      "series_id": "dd1f74a6-62d1-497f-b59c-7ea82f9fd7f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "a918edbe-9a30-4e60-a213-158fe74cb1ec",
+      "name": "Melbourne Stars Women vs Sydney Thunder Women, 23rd Match",
+      "matchType": "t20",
+      "status": "Sydney Thunder Women won by 9 wkts",
+      "venue": "Casey Fields No 4, Melbourne",
+      "date": "2023-11-04",
+      "dateTimeGMT": "2023-11-04T04:00:00",
+      "teams": [
+        "Melbourne Stars Women",
+        "Sydney Thunder Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Stars Women",
+          "shortname": "MS-W",
+          "img": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=48"
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortname": "ST-W",
+          "img": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 123,
+          "w": 5,
+          "o": 20,
+          "inning": "Melbourne Stars Women Inning 1"
+        },
+        {
+          "r": 128,
+          "w": 1,
+          "o": 12.5,
+          "inning": "Sydney Thunder Women Inning 1"
+        }
+      ],
+      "series_id": "dd1f74a6-62d1-497f-b59c-7ea82f9fd7f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "29039748-20d9-4da9-8686-e028c51a6734",
+      "name": "Perth Scorchers Women vs Melbourne Renegades Women, 22nd Match",
+      "matchType": "t20",
+      "status": "Perth Scorchers Women won by 6 wkts",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2023-11-03",
+      "dateTimeGMT": "2023-11-03T09:40:00",
+      "teams": [
+        "Perth Scorchers Women",
+        "Melbourne Renegades Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Melbourne Renegades Women",
+          "shortname": "MR-W",
+          "img": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=48"
+        },
+        {
+          "name": "Perth Scorchers Women",
+          "shortname": "PS-W",
+          "img": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 171,
+          "w": 6,
+          "o": 20,
+          "inning": "Melbourne Renegades Women Inning 1"
+        },
+        {
+          "r": 172,
+          "w": 4,
+          "o": 17.2,
+          "inning": "Perth Scorchers Women Inning 1"
+        }
+      ],
+      "series_id": "dd1f74a6-62d1-497f-b59c-7ea82f9fd7f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "9c616a90-f6df-4248-ad67-c0f4d9fb3664",
+      "name": "Adelaide Strikers Women vs Sydney Sixers Women, 21st Match",
+      "matchType": "t20",
+      "status": "Adelaide Strikers Women won by 5 wkts",
+      "venue": "W.A.C.A. Ground, Perth",
+      "date": "2023-11-03",
+      "dateTimeGMT": "2023-11-03T06:10:00",
+      "teams": [
+        "Adelaide Strikers Women",
+        "Sydney Sixers Women"
+      ],
+      "teamInfo": [
+        {
+          "name": "Adelaide Strikers Women",
+          "shortname": "AS-W",
+          "img": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=48"
+        },
+        {
+          "name": "Sydney Sixers Women",
+          "shortname": "SS-W",
+          "img": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 111,
+          "w": 6,
+          "o": 20,
+          "inning": "Sydney Sixers Women Inning 1"
+        },
+        {
+          "r": 114,
+          "w": 5,
+          "o": 17.1,
+          "inning": "Adelaide Strikers Women Inning 1"
+        }
+      ],
+      "series_id": "dd1f74a6-62d1-497f-b59c-7ea82f9fd7f7",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "da784602-6fba-435c-a1ec-d432bf2c56a1",
+      "name": "England vs Australia, 36th Match",
+      "matchType": "odi",
+      "status": "England need 184 runs",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "date": "2023-11-04",
+      "dateTimeGMT": "2023-11-04T08:30:00",
+      "teams": [
+        "England",
+        "Australia"
+      ],
+      "teamInfo": [
+        {
+          "name": "Australia",
+          "shortname": "AUS",
+          "img": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=48"
+        },
+        {
+          "name": "England",
+          "shortname": "ENG",
+          "img": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 286,
+          "w": 10,
+          "o": 49.3,
+          "inning": "Australia Inning 1"
+        },
+        {
+          "r": 103,
+          "w": 3,
+          "o": 23,
+          "inning": "England Inning 1"
+        }
+      ],
+      "series_id": "bd830e89-3420-4df5-854d-82cfab3e1e04",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": false
+    },
+    {
+      "id": "3d6ba49c-913d-47ab-bf91-e725214c0a98",
+      "name": "New Zealand vs Pakistan, 35th Match",
+      "matchType": "odi",
+      "status": "Pakistan won by 21 runs - DLS method",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
+      "date": "2023-11-04",
+      "dateTimeGMT": "2023-11-04T05:00:00",
+      "teams": [
+        "New Zealand",
+        "Pakistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "New Zealand",
+          "shortname": "NZ",
+          "img": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=48"
+        },
+        {
+          "name": "Pakistan",
+          "shortname": "PAK",
+          "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 401,
+          "w": 6,
+          "o": 50,
+          "inning": "New Zealand Inning 1"
+        },
+        {
+          "r": 200,
+          "w": 1,
+          "o": 25.3,
+          "inning": "Pakistan Inning 1"
+        }
+      ],
+      "series_id": "bd830e89-3420-4df5-854d-82cfab3e1e04",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    },
+    {
+      "id": "816388ec-31c9-428d-aeed-87e0c80c2f47",
+      "name": "Netherlands vs Afghanistan, 34th Match",
+      "matchType": "odi",
+      "status": "Afghanistan won by 7 wkts",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "date": "2023-11-03",
+      "dateTimeGMT": "2023-11-03T08:30:00",
+      "teams": [
+        "Netherlands",
+        "Afghanistan"
+      ],
+      "teamInfo": [
+        {
+          "name": "Afghanistan",
+          "shortname": "AFG",
+          "img": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=48"
+        },
+        {
+          "name": "Netherlands",
+          "shortname": "NED",
+          "img": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48"
+        }
+      ],
+      "score": [
+        {
+          "r": 179,
+          "w": 10,
+          "o": 46.3,
+          "inning": "Netherlands Inning 1"
+        },
+        {
+          "r": 181,
+          "w": 3,
+          "o": 31.3,
+          "inning": "Afghanistan Inning 1"
+        }
+      ],
+      "series_id": "bd830e89-3420-4df5-854d-82cfab3e1e04",
+      "fantasyEnabled": true,
+      "bbbEnabled": true,
+      "hasSquad": true,
+      "matchStarted": true,
+      "matchEnded": true
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 47,
+    "hitsUsed": 1,
+    "hitsLimit": 100,
+    "credits": 0,
+    "server": 9,
+    "offsetRows": 0,
+    "totalRows": 16,
+    "queryTime": 53.3267,
+    "s": 0,
+    "cache": 1
+  }
+}

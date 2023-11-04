@@ -1,0 +1,388 @@
+{
+    "apikey": "83cde873-9160-4d4c-a7e2-650ec83b17a5",
+    "data": {
+      "innings": [
+        {
+          "inning": "India Inning 1",
+          "batting": [
+            {
+              "id": "03bda674-3916-4d64-952e-00a6c19c01e1",
+              "name": "Rohit Sharma",
+              "altnames": [
+                "Rohit Gurunath Sharma",
+                "RG Sharma"
+              ],
+              "points": 154
+            },
+            {
+              "id": "7263e990-a9e9-4829-8adf-760d18d1315c",
+              "name": "Shubman Gill",
+              "points": 153
+            },
+            {
+              "id": "c61d247d-7f77-452c-b495-2813a9cd0ac4",
+              "name": "Virat Kohli",
+              "points": 63
+            },
+            {
+              "id": "9ae68636-48d9-488f-8adc-e62a19815d85",
+              "name": "Ishan Kishan",
+              "altnames": [
+                "Ishan Pranav Kumar Pandey Kishan",
+                "I Kishan"
+              ],
+              "points": 34
+            },
+            {
+              "id": "8c579447-bfbd-4cf6-a283-db4dc1d5ac33",
+              "name": "Suryakumar Yadav",
+              "points": 22
+            },
+            {
+              "id": "a90b2371-5c53-4c29-a382-9b52d40a7548",
+              "name": "Hardik Pandya",
+              "points": 79
+            },
+            {
+              "id": "309d3ffd-3d06-460d-9427-c559a604d471",
+              "name": "Washington Sundar",
+              "points": 6
+            },
+            {
+              "id": "c1257351-51ca-446f-b7f5-01fe92e75076",
+              "name": "Shardul Thakur",
+              "points": 46
+            },
+            {
+              "id": "1e651cfb-57f1-48da-bf9d-83cbff1733d1",
+              "name": "Kuldeep Yadav",
+              "points": 13
+            },
+            {
+              "id": "b367db88-a73e-445f-8cdd-3f6335617b07",
+              "name": "Umran Malik",
+              "points": -4
+            }
+          ],
+          "bowling": [
+            {
+              "id": "6e05cbea-6a4b-42ef-8e2e-b44e4b434c2f",
+              "name": "Jacob Duffy",
+              "points": 6
+            },
+            {
+              "id": "604d7c88-4f5d-40d9-b08b-330420964d87",
+              "name": "Lockie Ferguson",
+              "points": 11
+            },
+            {
+              "id": "07667f24-cb41-4e01-b1e7-067120c638d7",
+              "name": "Blair Tickner",
+              "points": 6
+            },
+            {
+              "id": "16ec245b-022d-4104-bd8f-ccc780428390",
+              "name": "Mitchell Santner",
+              "points": 47
+            },
+            {
+              "id": "f75212f8-37fb-4cf0-8f37-d681b4cb66b2",
+              "name": "Daryl Mitchell",
+              "points": 30
+            },
+            {
+              "id": "f059d7fe-16dc-4065-bcfc-51decb09e58d",
+              "name": "Michael Bracewell",
+              "points": 35
+            }
+          ],
+          "catching": [
+            {
+              "id": "eac0032b-055a-497b-9d4e-f54008414515",
+              "name": "Devon Conway",
+              "points": 212
+            },
+            {
+              "id": "08924d57-b4d3-4ed0-903d-087a8384be12",
+              "name": "Finn Allen",
+              "points": 0
+            },
+            {
+              "id": "ba49b04b-d9f0-4299-88fc-61e6ab3e13b7",
+              "name": "Henry Nicholls",
+              "points": 59
+            },
+            {
+              "id": "f75212f8-37fb-4cf0-8f37-d681b4cb66b2",
+              "name": "Daryl Mitchell",
+              "points": 8
+            },
+            {
+              "id": "05811a99-09ae-451e-8aa5-ec8cf0fa1aab",
+              "name": "Tom Latham",
+              "points": 0
+            },
+            {
+              "id": "604d7c88-4f5d-40d9-b08b-330420964d87",
+              "name": "Lockie Ferguson",
+              "points": 6
+            }
+          ]
+        },
+        {
+          "inning": "New Zealand Inning 1",
+          "batting": [
+            {
+              "id": "08924d57-b4d3-4ed0-903d-087a8384be12",
+              "name": "Finn Allen",
+              "points": -8
+            },
+            {
+              "id": "eac0032b-055a-497b-9d4e-f54008414515",
+              "name": "Devon Conway",
+              "points": 184
+            },
+            {
+              "id": "ba49b04b-d9f0-4299-88fc-61e6ab3e13b7",
+              "name": "Henry Nicholls",
+              "points": 53
+            },
+            {
+              "id": "f75212f8-37fb-4cf0-8f37-d681b4cb66b2",
+              "name": "Daryl Mitchell",
+              "points": 26
+            },
+            {
+              "id": "05811a99-09ae-451e-8aa5-ec8cf0fa1aab",
+              "name": "Tom Latham",
+              "points": -8
+            },
+            {
+              "id": "9e6fa482-3ad3-4831-b05d-4fed2510cdf5",
+              "name": "Glenn Phillips",
+              "points": 5
+            },
+            {
+              "id": "f059d7fe-16dc-4065-bcfc-51decb09e58d",
+              "name": "Michael Bracewell",
+              "points": 31
+            },
+            {
+              "id": "16ec245b-022d-4104-bd8f-ccc780428390",
+              "name": "Mitchell Santner",
+              "points": 45
+            },
+            {
+              "id": "604d7c88-4f5d-40d9-b08b-330420964d87",
+              "name": "Lockie Ferguson",
+              "points": 3
+            },
+            {
+              "id": "6e05cbea-6a4b-42ef-8e2e-b44e4b434c2f",
+              "name": "Jacob Duffy",
+              "points": -8
+            },
+            {
+              "id": "07667f24-cb41-4e01-b1e7-067120c638d7",
+              "name": "Blair Tickner",
+              "points": -8
+            }
+          ],
+          "bowling": [
+            {
+              "id": "a90b2371-5c53-4c29-a382-9b52d40a7548",
+              "name": "Hardik Pandya",
+              "points": -2
+            },
+            {
+              "id": "309d3ffd-3d06-460d-9427-c559a604d471",
+              "name": "Washington Sundar",
+              "points": -2
+            },
+            {
+              "id": "c1257351-51ca-446f-b7f5-01fe92e75076",
+              "name": "Shardul Thakur",
+              "points": 14
+            },
+            {
+              "id": "b367db88-a73e-445f-8cdd-3f6335617b07",
+              "name": "Umran Malik",
+              "points": 0
+            },
+            {
+              "id": "1e651cfb-57f1-48da-bf9d-83cbff1733d1",
+              "name": "Kuldeep Yadav",
+              "points": 10
+            },
+            {
+              "id": "0d704a13-518a-40a7-bb93-0fc0d92af9e2",
+              "name": "Yuzvendra Chahal",
+              "points": 12
+            }
+          ],
+          "catching": [
+            {
+              "id": "03bda674-3916-4d64-952e-00a6c19c01e1",
+              "name": "Rohit Sharma",
+              "altnames": [
+                "Rohit Gurunath Sharma",
+                "RG Sharma"
+              ],
+              "points": 16
+            },
+            {
+              "id": "9ae68636-48d9-488f-8adc-e62a19815d85",
+              "name": "Ishan Kishan",
+              "altnames": [
+                "Ishan Pranav Kumar Pandey Kishan",
+                "I Kishan"
+              ],
+              "points": 14
+            },
+            {
+              "id": "a90b2371-5c53-4c29-a382-9b52d40a7548",
+              "name": "Hardik Pandya",
+              "points": 8
+            },
+            {
+              "id": "c61d247d-7f77-452c-b495-2813a9cd0ac4",
+              "name": "Virat Kohli",
+              "points": 16
+            }
+          ]
+        }
+      ],
+      "totals": [
+        {
+          "id": "03bda674-3916-4d64-952e-00a6c19c01e1",
+          "name": "Rohit Sharma",
+          "altnames": [
+            "Rohit Gurunath Sharma",
+            "RG Sharma"
+          ],
+          "points": 154
+        },
+        {
+          "id": "7263e990-a9e9-4829-8adf-760d18d1315c",
+          "name": "Shubman Gill",
+          "points": 153
+        },
+        {
+          "id": "c61d247d-7f77-452c-b495-2813a9cd0ac4",
+          "name": "Virat Kohli",
+          "points": 63
+        },
+        {
+          "id": "9ae68636-48d9-488f-8adc-e62a19815d85",
+          "name": "Ishan Kishan",
+          "altnames": [
+            "Ishan Pranav Kumar Pandey Kishan",
+            "I Kishan"
+          ],
+          "points": 34
+        },
+        {
+          "id": "8c579447-bfbd-4cf6-a283-db4dc1d5ac33",
+          "name": "Suryakumar Yadav",
+          "points": 22
+        },
+        {
+          "id": "a90b2371-5c53-4c29-a382-9b52d40a7548",
+          "name": "Hardik Pandya",
+          "points": 79
+        },
+        {
+          "id": "309d3ffd-3d06-460d-9427-c559a604d471",
+          "name": "Washington Sundar",
+          "points": 6
+        },
+        {
+          "id": "c1257351-51ca-446f-b7f5-01fe92e75076",
+          "name": "Shardul Thakur",
+          "points": 46
+        },
+        {
+          "id": "1e651cfb-57f1-48da-bf9d-83cbff1733d1",
+          "name": "Kuldeep Yadav",
+          "points": 13
+        },
+        {
+          "id": "b367db88-a73e-445f-8cdd-3f6335617b07",
+          "name": "Umran Malik",
+          "points": -4
+        },
+        {
+          "id": "6e05cbea-6a4b-42ef-8e2e-b44e4b434c2f",
+          "name": "Jacob Duffy",
+          "points": 6
+        },
+        {
+          "id": "604d7c88-4f5d-40d9-b08b-330420964d87",
+          "name": "Lockie Ferguson",
+          "points": 11
+        },
+        {
+          "id": "07667f24-cb41-4e01-b1e7-067120c638d7",
+          "name": "Blair Tickner",
+          "points": 6
+        },
+        {
+          "id": "16ec245b-022d-4104-bd8f-ccc780428390",
+          "name": "Mitchell Santner",
+          "points": 47
+        },
+        {
+          "id": "f75212f8-37fb-4cf0-8f37-d681b4cb66b2",
+          "name": "Daryl Mitchell",
+          "points": 30
+        },
+        {
+          "id": "f059d7fe-16dc-4065-bcfc-51decb09e58d",
+          "name": "Michael Bracewell",
+          "points": 35
+        },
+        {
+          "id": "eac0032b-055a-497b-9d4e-f54008414515",
+          "name": "Devon Conway",
+          "points": 212
+        },
+        {
+          "id": "08924d57-b4d3-4ed0-903d-087a8384be12",
+          "name": "Finn Allen",
+          "points": 0
+        },
+        {
+          "id": "ba49b04b-d9f0-4299-88fc-61e6ab3e13b7",
+          "name": "Henry Nicholls",
+          "points": 59
+        },
+        {
+          "id": "05811a99-09ae-451e-8aa5-ec8cf0fa1aab",
+          "name": "Tom Latham",
+          "points": 0
+        },
+        {
+          "id": "9e6fa482-3ad3-4831-b05d-4fed2510cdf5",
+          "name": "Glenn Phillips",
+          "points": 5
+        },
+        {
+          "id": "0d704a13-518a-40a7-bb93-0fc0d92af9e2",
+          "name": "Yuzvendra Chahal",
+          "points": 12
+        }
+      ]
+    },
+    "status": "success",
+    "info": {
+      "hitsToday": 67,
+      "hitsUsed": 10,
+      "hitsLimit": 100,
+      "credits": 0,
+      "server": 3,
+      "ruleset": 0,
+      "queryTime": 797.9632,
+      "s": 0,
+      "cache": 0
+    }
+  }

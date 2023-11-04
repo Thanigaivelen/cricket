@@ -1,0 +1,10 @@
+### Request 1
+GET https://api.cricapi.com/v1/cricScore?apikey=83cde873-9160-4d4c-a7e2-650ec83b17a5
+
+###Request 2
+GET https://api.cricapi.com/v1/currentMatches?apikey=83cde873-9160-4d4c-a7e2-650ec83b17a5&offset=0
+
+###Request 3
+GET https://api.cricapi.com/v1/match_squad?apikey=83cde873-9160-4d4c-a7e2-650ec83b17a5&id=78338376-2acb-4f4a-9e39-0f770618906e
+###Request 4
+GET https://api.cricapi.com/v1/match_points?apikey=83cde873-9160-4d4c-a7e2-650ec83b17a5&id=78338376-2acb-4f4a-9e39-0f770618906e&ruleset=0
