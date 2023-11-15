@@ -4,23 +4,57 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Pacifico&effect=shadow-multiple">
     <title>Live Cricket App</title>
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a  href="#live" id="live-score-link">Live Score</a></li>
-                <li><a onclick="loadSchedule()" href="#schedule" id="schedules-link">Schedules</a></li>
-                <li><a href="#" id="teams-link">Teams</a></li>
-                <li><a href="#" id="points-table-link">Points Table</a></li>
-            </ul>
-        </nav>
+        <nav class='navBar'>
+            <h1></h1>
+           
+            <div class='navigationMenu' style="position: relative;">
+              <a href="./index.html" id="home">Home</a>
+              <a href="./live.html" id="live-score-link">livescore</a>
+              <a href="./schedule.html" id="schedules-link">Matches</a>
+              <a href="./teams.html" id="teams-link" class="dropdown">My team</a>
+              <a href="./points.html" id="points-link">points</a>
+            <div id="box" style="background-color: white;padding: 20px;position: absolute;width: 300px;right:0;display: none;color: black;">
+                New zealand
+            </div>
+            <div>
+          </nav>
     </header>
    
     
 
-    <!-- <main> -->
+    <!-- <main> --><main>
+        <section id="welcome-section">
+                <div>
+                    
+                    <h1>cricket</h1>
+
+                </div>
+                
+            
+            
+            <h2>Welcome to the Live Cricket App</h2>
+            <p>Stay updated with live scores, schedules, teams, and points table.</p>
+            <!-- Add any additional welcome content here -->
+        </section>
+
+        <section id="features-section">
+            <h2>Key Features</h2>
+            <ul>
+                <li>Real-time live scores</li>
+                <li>Upcoming match schedules</li>
+                <li>Team information</li>
+                <li>Points table</li>
+                <!-- Add more features as needed -->
+            </ul>
+        </section>
+
+        
         <div id="matchContainer"></div>
             
           
@@ -28,18 +62,18 @@
     <div id="teamsContainer"></div>
     
     <div id="pointsTableContainer">
-        <a id="points-link" href="#">Load Points</a>
+        
 
-    </div>
+ </div>
+</main>
+        <!-- <a id="points-link" href="#">Load Points</a> -->
+
+    
 
 
     <!-- </main> -->
+   <script src="./nav.js"></script>
 
-
-    <script src="points.js"></script>
-    <script src="team.js"></script>
-    <script src="schedule.js"></script>
-    <script src="live.js"></script>
     
     
 </body>

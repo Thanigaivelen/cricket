@@ -1,46 +1,87 @@
 /* Reset some default styles */
-body, h1, h2, h3, p {
+body, h2, h3, p {
     margin: 0;
     padding: 0;
   }
+  h1{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 100px;
+
+}
+h2{
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  text-align: center;
+
+
+}
+#features-section>ul{
+
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  text-align: center;
+  
+
+}
+#welcome-section{
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+
   
   /* Set a background color and font for the entire page */
   body {
-    background-image: url('body.jfif'); /* Replace with your image file URL */
+    background-image: url('pic4.jpg'); /* Replace with your image file URL */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     font-family: Arial, sans-serif; /* Specify your preferred font-family */
-    color: #333; /* Text color */
+    color: #2D394B; /* Text color */
+  }
+
+  main {
+    padding-top: 70px; /* Adjusted padding to account for the fixed navbar */
+}
+  .navBar{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 1.5px solid rgb(255 255 255 / 35%);
+    position:fixed;
+    width: 100%; /* Full width */
+    top: 0; /* Align to the top */
+    z-index: 1000; /* Set a higher z-index to ensure it's above other elements */
   }
   
-  
-  /* Style the header and navigation bar */
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
+  .navBar > h1,.navBar > navigationMenu{
+    margin: 30px;
   }
   
-  nav ul {
-    list-style: none;
-  }
-  
-  nav ul li {
-    display: inline;
-    margin-right: 20px;
-  }
-  
-  nav a {
+  .navigationMenu > a{
+    padding: 5px 10px;
+    margin-left: 10px; 
     text-decoration: none;
-    color: #fff;
+    color: black;
+    display: inline-block;
+    font-family: 'Pacifico', cursive;
+  font-size: 30px;
   }
   
-  /* Style the main content containers */
-/* Style for the matchContainer */
-/* Style for the matchContainer */
+  .navigationMenu > a:hover{
+    transition: ease-in-out 300ms;
+    background: white;
+  }
 #matchContainer {
     display: flex;
     flex-wrap: wrap;
@@ -119,6 +160,15 @@ body, h1, h2, h3, p {
     align-items: center;
     margin: 20px;
   }
+  #teamsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+
+  }
   
   /* Style for each schedule-card */
   .schedule-card {
@@ -131,6 +181,10 @@ body, h1, h2, h3, p {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s;
   }
+
+  .player-card:hover{
+    transform:scale(1.05);
+  }
   
   .schedule-card:hover {
     transform: scale(1.05);
@@ -142,24 +196,8 @@ body, h1, h2, h3, p {
     margin-bottom: 10px;
   }
   
-  /* Style for team-info (team logos and names) in the schedule */
-  .team-info-schedule {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-  }
-  
-  .team-schedule {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .team-logo-schedule {
-    max-width: 48px;
-    height: auto;
-  }
-  
+
+   
   /* Style for vs in the schedule */
   .vs-schedule {
     font-weight: bold;
@@ -231,39 +269,9 @@ body, h1, h2, h3, p {
     margin: 10px 0;
   }
   
-
-
-/* Style for the pointsTableContainer */
-#pointsTableContainer {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Style for the "Load Points" link */
-  #points-link {
-    font-weight: bold;
-    text-decoration: none;
-    color: #007bff;
-    margin-top: 20px;
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  #points-link:hover {
-    background-color: #0056b3;
-  }
-  
   /* Style for the actual points table */
   .points-table {
+    background-color: white;
     margin-top: 20px;
   }
   
@@ -272,12 +280,17 @@ body, h1, h2, h3, p {
     background-color: #007bff;
     color: #fff;
     padding: 10px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    
   }
   
   /* Style for table rows */
   .points-table td {
     padding: 10px;
     border-bottom: 1px solid #ddd;
+    font-weight: bold;
+  
   }
   
   /* Style for team names */
@@ -296,6 +309,7 @@ body, h1, h2, h3, p {
     font-weight: bold;
     color: #007bff;
   }
+
   
   /* Style for team logos */
   .team-logo {
@@ -305,7 +319,18 @@ body, h1, h2, h3, p {
     border-radius: 50%;
     margin-right: 10px;
   }
+  #pointsTableContainer{
+    margin-left: 30%;
+  }
+  @media only screen and (max-width: 760px){
+    .navigationMenu{
+      display: none;
+    }
+  }
   
+  @media (min-width: 481px) and (max-width: 1680px){
+ img {
+    float: left;
+}
   
-  
-  
+}
